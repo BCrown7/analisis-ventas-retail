@@ -18,6 +18,8 @@ __pycache__/
 # Datos
 data/raw/*.csv
 data/raw/*.xlsx
+data/raw/*.xls
+data/processed/*.csv
 
 # IDE
 .vscode/
