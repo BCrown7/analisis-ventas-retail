@@ -69,9 +69,9 @@ jupyter notebook
 
 ## 👤 Autor
 
-**[Tu Nombre]**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: thehealerone9@gmail.com
+**[Bryan Coronado]**
+- GitHub: [@BCrown7](https://github.com/BCrown7)
+- Email: bryancoronadog@gmail.com
 
 ## 📄 Licencia
 
