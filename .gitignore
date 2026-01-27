@@ -15,9 +15,9 @@ __pycache__/
 *.pyd
 .Python
 
-# Datos (opcional - si los archivos son muy grandes)
-# data/raw/*.csv
-# data/raw/*.xlsx
+# Datos
+data/raw/*.csv
+data/raw/*.xlsx
 
 # IDE
 .vscode/
