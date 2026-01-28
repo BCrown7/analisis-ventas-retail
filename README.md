@@ -1,6 +1,6 @@
-# 📊 Análisis de Ventas Retail
+# 📊 Análisis de Ventas Retail (PROYECTO EN PROCESO)
 
-Proyecto de análisis de datos para identificar patrones de ventas y desarrollar modelo predictivo.
+Proyecto de práctica para análisis de datos con objetivo de identificar patrones de ventas y desarrollar modelo predictivo.
 
 ## 🎯 Objetivos del Proyecto
 
@@ -11,12 +11,13 @@ Proyecto de análisis de datos para identificar patrones de ventas y desarrollar
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Python 3.x**
-- **Pandas** - Manipulación de datos
-- **NumPy** - Cálculos numéricos
-- **Matplotlib & Seaborn** - Visualizaciones
-- **Scikit-learn** - Machine Learning
-- **Jupyter Notebook** - Análisis interactivo
+- **Python (3.14.0)**
+- **Pandas (3.0.0)** - Manipulación de datos
+- **NumPy (2.4.1)** - Cálculos numéricos
+- **Matplotlib (3.10.8) & Seaborn (0.13.2)** - Visualizaciones Avanzadas
+- **Scikit-learn (1.8.0)** - Machine Learning
+- **Jupyter Notebook (1.1.1)** - Análisis interactivo
+- **Visual Studio Code** - Editor de código
 
 ## 📁 Estructura del Proyecto
 ```
@@ -26,7 +27,7 @@ analisis-ventas-retail/
 │   ├── raw/                   # Datos originales
 │   └── processed/             # Datos procesados
 ├── notebooks/                 # Jupyter Notebooks
-│   └── analisis_principal.ipynb
+│   └── analisis_ventas_retail.ipynb
 ├── images/                    # Gráficos generados
 ├── src/                       # Scripts de Python
 ├── .gitignore
@@ -34,21 +35,19 @@ analisis-ventas-retail/
 └── requirements.txt
 ```
 
-## 🚀 Instalación y Uso
-
-### Clonar el repositorio
+### Clonación de repositorio
 ```bash
 git clone https://github.com/tu-usuario/analisis-ventas-retail.git
 cd analisis-ventas-retail
 ```
 
-### Crear ambiente virtual
+### Creación de ambiente virtual
 ```bash
 python -m venv venv
 venv\Scripts\activate  # Windows
 ```
 
-### Instalar dependencias
+### Instalación de dependencias
 ```bash
 pip install -r requirements.txt
 ```
