@@ -11,6 +11,7 @@ Proyecto de práctica para análisis de datos con objetivo de identificar patron
 
 ### 🔗 Fuente Original:
 - **Kaggle:** [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Cargada manualmente en UTF-8 para compatibilidad.
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -40,13 +41,13 @@ analisis-ventas-retail/
 
 ### Clonación de repositorio
 ```bash
-git clone https://github.com/tu-usuario/analisis-ventas-retail.git
+git clone https://github.com/BCrown7/analisis-ventas-retail.git
 cd analisis-ventas-retail
 ```
 
 ### Creación de ambiente virtual
 ```bash
-python -m venv venv
+python -m venv venv    # Dentro de la carpeta del proyecto
 venv\Scripts\activate  # Windows
 ```
 
