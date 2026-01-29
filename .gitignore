@@ -16,10 +16,16 @@ __pycache__/
 .Python
 
 # Datos
-data/raw/*.csv
-data/raw/*.xlsx
 data/raw/*.xls
-data/processed/*.csv
+data/raw/*.zip
+data/raw/*.rar
+data/processed/*.parquet
+
+# (Se permitirá la carga de la data base para no influir en la carga del repositorio)
+# data/raw/*.csv
+# data/raw/*.xlsx
+# data/processed/*.csv
+
 
 # IDE
 .vscode/
