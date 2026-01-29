@@ -9,6 +9,9 @@ Proyecto de práctica para análisis de datos con objetivo de identificar patron
 - Desarrollar modelo predictivo de ventas futuras
 - Generar insights accionables para estrategias comerciales
 
+### 🔗 Fuente Original:
+- **Kaggle:** [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **Python (3.14.0)**
